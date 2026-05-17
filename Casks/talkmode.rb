@@ -3,8 +3,7 @@ cask "talkmode" do
   # Run `bash scripts/release.sh` and paste the printed SHA256 here on every version bump.
   sha256 "a68955723196c0cff92f7efd9afc405cc41c0686b53fb326b2620c075e604ab3"
 
-  url "https://talkmode.baryon.ai/download/TalkMode-#{version}.zip",
-      verified: "talkmode.baryon.ai/"
+  url "https://talkmode.baryon.ai/download/TalkMode-#{version}.zip"
   name "TalkMode"
   desc "Korean-friendly real-time voice assistant for macOS (multimodal endpointing)"
   homepage "https://talkmode.baryon.ai"
