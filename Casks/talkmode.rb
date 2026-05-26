@@ -1,7 +1,7 @@
 cask "talkmode" do
-  version "0.4.41"
+  version "0.4.42"
   # Run `bash scripts/release.sh` and paste the printed SHA256 here on every version bump.
-  sha256 "7c43cf6bfbe9a0832a5679ed567772a738253e2ea84eba4b67e3400c879d9219"
+  sha256 "9d725588e069c6ce4581bd2a749be385f2e14989a9475d7f0c129248cb81ec52"
 
   url "https://talkmode.baryon.ai/download/TalkMode-#{version}.zip"
   name "TalkMode"
